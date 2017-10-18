@@ -1,0 +1,17 @@
+select {
+    color:black;
+}
+
+input {
+    color:black;
+}
+
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+
+.form-group {
+    margin-right:10px;
+}
